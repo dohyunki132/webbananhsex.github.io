@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Store</title>
+    <title>Ảnh sex VN</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,7 +31,7 @@
             justify-content: space-between;
         }
         .product-item {
-            background-color: rgba(255, 255, 255, 0.9);
+            background-color: rgba(255, 255, 255, 0.555);
             border: 1px solid #ddd;
             border-radius: 5px;
             margin-bottom: 20px;
@@ -56,11 +56,11 @@
         }
         .product-item .price {
             font-size: 20px;
-            color: #333;
+            color: #333333;
             margin-bottom: 15px;
         }
         .product-item button {
-            background-color: #28a745;
+            background-color: #2878a7;
             color: #fff;
             padding: 10px 15px;
             border: none;
@@ -70,6 +70,11 @@
         .product-item button:hover {
             background-color: #218838;
         }
+        .h1 {
+            color: #2878a7;
+        }
+
+
     </style>
 </head>
 <body>
@@ -81,7 +86,7 @@
     <div class="container">
         <div class="product-list">
             <div class="product-item">
-                <img src="https://scontent.fhan3-4.fna.fbcdn.net/v/t1.15752-9/455343563_489255000524380_1936164654544544386_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=nAd_OW8ghi8Q7kNvgFwNcwC&_nc_ht=scontent.fhan3-4.fna&oh=03_Q7cD1QHDlG-B3IKbBROj1osBfupoagw-QgSww48dvZ9yGG69-g&oe=66ED2127" alt="Product 1">
+                <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/510235752_701837786167071_6550131657376272463_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=iRqiVRRgxNMQ7kNvwFaDe_S&_nc_oc=Adny61aGXLn92pzd4m6JNx0jedxmF10XSzJySfHJp7pso1PUN_eu75Ae8VtueXtWZVsCOBhWBdhc0-HLLvYvptOn&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&oh=03_Q7cD2gF5ktnIEuWjig1Cd3jde6rOa0Kzvbim2pu74DEQ1v6uow&oe=68851F1B" alt="Product 1">
                 <h3>Hoàng Kim Cốt HBUI</h3>
                 <p>Con quỷ valorant</p>
                 <div class="price">200 triệu</div>
@@ -89,15 +94,15 @@
             </div>
 
             <div class="product-item">
-                <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t1.15752-9/455696827_924458476392789_5940084966041494849_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=ou3VKapVoswQ7kNvgHa_q-v&_nc_ht=scontent.fhan3-3.fna&_nc_gid=AfXvlpwpGJiKx3eoLYxYnei&oh=03_Q7cD1QFaVNsdeUZpAbM1-qCXuvmG55NsFHl47W35t6HmWaJ8QQ&oe=66ED2242" alt="Product 2">
-                <h3>Biến thái vân ngoại Khải Siu</h3>
-                <p>Chuyên bắt cóc trẻ em</p>
+                <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/508528701_1356252192136746_4666577072146782185_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sWwiDQ5f9zcQ7kNvwH8sBP3&_nc_oc=Adl-1ND8_dad8YsnqLLDsjKMtQ1guhnN5JaFoXudI468rW8-R3CqwA72dCdQM4SanrsmFioYipCk6jW_REH1HdWn&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&oh=03_Q7cD2gGmrqUsf6ZS4LoU_V9mFPAA0l_xkKxXtTNyqo4t_ZgoMw&oe=688502DF" alt="Product 2">
+                <h3>Anh đi wave đen </h3>
+                <p>Vú to hơn vú gái</p>
                 <div class="price">195 triệu</div>
-                <button onclick="buyNow('https:www.facebook.com/profile.php?id=100039291713837')">mua</button>
+                <button onclick="buyNow('https://www.facebook.com/anhlamoimoij')">mua</button>
             </div>
 
             <div class="product-item">
-                <img src="https://scontent.fhan4-1.fna.fbcdn.net/v/t1.15752-9/455949620_1160890128540269_7116747921456108184_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Bq-ev6UaOLkQ7kNvgH5vlt4&_nc_ht=scontent.fhan4-1.fna&_nc_gid=AfXvlpwpGJiKx3eoLYxYnei&oh=03_Q7cD1QGXhMpkKWT7RvBtzDCDp7DiM66pKrE8sMP9EqgvNUtk7w&oe=66ED0C17" alt="Product 3">
+                <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/508636833_1342261706843136_1394040207191274254_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=u7If2RmM4WQQ7kNvwEgKC27&_nc_oc=Adlr_sxSwKvOUNd1iuyNSxPq1fxGtU8DHytp1hF8RUq0YEm6ncDRKvin9d0U76Zt805CmHttn9Wptd9vPVCDfoTq&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&oh=03_Q7cD2gEfhL0Y8FriQFAwM6Ts9ITigF8f1feBMdyzWgocJwbQdw&oe=688510D3" alt="Product 3">
                 <h3>Nhà cái cao quán Phan Phong</h3>
                 <p>Khóa học 100m</p>
                 <div class="price">500 triệu</div>
@@ -105,7 +110,7 @@
             </div>
 
             <div class="product-item">
-                <img src="https://scontent.fhan4-6.fna.fbcdn.net/v/t1.15752-9/454920058_496446569656800_3457374201136325773_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=-ma_7jyjRSsQ7kNvgGKx94c&_nc_ht=scontent.fhan4-6.fna&oh=03_Q7cD1QF1f0Zvql8JU2_qqT_PAeybek_HasOoU--u-z8n-E6naA&oe=66ED350B" alt="Product 4">
+                <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/509236733_1278985267166363_4034983506333692202_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=6HIHoX8sNSIQ7kNvwHsIew9&_nc_oc=Adm3-VyjF72w2IxYb_XxN-quoT9Lbris1TE4-Uvra1MXhe1coLIs2Muoy7h7GPE70kz0iuydGAMTKce1OHwKqQMF&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&oh=03_Q7cD2gF0COWkFmNXq240uxbwsygjVSJQOeOyEBH9Q2LQKQ22gQ&oe=68851E37" alt="Product 4">
                 <h3>Viet 69</h3>
                 <p>Nga đệ.</p>
                 <div class="price">đéo đáng 1 xu</div>
@@ -113,16 +118,16 @@
             </div>
 
             <div class="product-item">
-                <img src="https://scontent.fhan4-1.fna.fbcdn.net/v/t1.15752-9/455707527_848211190605190_6139791291364664667_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=VmQn9p_jucMQ7kNvgGccxVz&_nc_ht=scontent.fhan4-1.fna&oh=03_Q7cD1QF0qxmvRxBqLtSVxiH1NrwpElngslDq_IJRe-VVIbMHcw&oe=66ED24E3" alt="Product 5">
-                <h3>Nghiện sống tình cảm</h3>
-                <p>Ngày ăn mấy bát</p>
-                <div class="price">20 triệu</div>
-                <button onclick="buyNow('https://www.facebook.com/profile.php?id=100045288908867')">mua</button>
+                <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/508887429_1243786664014009_5643736432897573643_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=QLpKC4Sin4oQ7kNvwEB49nk&_nc_oc=AdkkCZm1mMpKI_qHLDiJC0dmDx4avkTu06OGx6iBpp30YT3DCzA3iY_yfwxsC_idoEubkBcKZAcvsW_funR_nCyJ&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&oh=03_Q7cD2gFFqqsKFfMYOVTvKrclBUcNCe-YnruUqE1aRIPZg_TFLg&oe=68852AE6" alt="Product 5">
+                <h3>Ngủ chuyên sờ chim</h3>
+                <p>Chim khắm</p>
+                <div class="price">Vô giá</div>
+                <button onclick="buyNow('https://www.facebook.com/huyhoangdzvcll')">mua</button>
             </div>
 
             <div class="product-item">
-                <img src="https://scontent.fhan3-2.fna.fbcdn.net/v/t1.15752-9/455707032_356538180860947_857619790210098974_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=ApJD-TNOaBQQ7kNvgGQa1lq&_nc_ht=scontent.fhan3-2.fna&oh=03_Q7cD1QHhKj23BWzI8vYuzbiTnvLrH7aLCWlTu677Bb0lvuAgvA&oe=66ED3F20" alt="Product 6">
-                <h3>Hoàng tử bóng đêm</h3>
+                <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t1.15752-9/509704884_691293507144380_8017765801683177906_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=dIERHEDwYaoQ7kNvwHdN80S&_nc_oc=AdlqEFrLSOC77yXExnAAP0dGI0ZKjfCZItZYq_zhmip8zhfBF1_pkBeLjKOv7r-e5f1WlLs7-3KO3xo89NnJURYP&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&oh=03_Q7cD2gGK2CNndEmpccnXb7TaTGpybVHyX8G6Edj65CrocpfYLg&oe=688523FA" alt="Product 6">
+                <h3>Đa nhân cách</h3>
                 <p>Quỷ lúc tỉnh lúc mơ.</p>
                 <div class="price">Vô giá</div>
                 <button onclick="buyNow('https://www.facebook.com/dohyunki132/')">mua</button>
